@@ -16,9 +16,9 @@ return [
         'app_id'      => 'APP-80W284485P519543T', // Used for testing Adaptive Payments API in sandbox mode
     ],
     'live' => [
-        'username'    => 'pawan_api1.alliedmarketresearch.com',
-        'password'    => 'KX59S9HYJEASGHZB',
-        'secret'      => 'AndoiyBaSJMQU0x.LA1gzGhgCNPQAByZc5Zw4HrnhfRTOKxz.IXboxLl',
+        'username'    => '',
+        'password'    => '',
+        'secret'      => '',
         'certificate' => env('PAYPAL_LIVE_API_CERTIFICATE', ''),
         'app_id'      => '', // Used for Adaptive Payments API
     ],
